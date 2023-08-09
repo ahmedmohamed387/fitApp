@@ -209,7 +209,7 @@ ul {
         margin-top: 30px;
     }
     .screen{
-        margin-top: 30px;
+        margin-top: 25px;
         z-index: 999;
         display: flex;
         justify-content: center;
@@ -218,7 +218,6 @@ ul {
         display: flex;
         justify-content: center;
         margin-right: 20px;
-        margin-bottom: 40px;
     }
     .end button{
         margin-top: 10px;
@@ -233,10 +232,13 @@ ul {
     }
     #left{
         text-align: center;
-        margin-top: 70px;   
+        margin-top: 120px;
     }
     #left p{
         font-size: 14px;
+    }
+    #left h2{
+        margin-bottom: 5px;
     }
     .part-1{
         text-align: start;
